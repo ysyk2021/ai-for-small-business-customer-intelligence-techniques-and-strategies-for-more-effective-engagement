@@ -1,5 +1,4 @@
-Types of AI used for Small Business Customer Intelligence
-==============================================================================================================================
+
 
 Artificial intelligence (AI) is transforming the way small businesses engage with their customers. In this chapter, we will explore the different types of AI used for small business customer intelligence.
 

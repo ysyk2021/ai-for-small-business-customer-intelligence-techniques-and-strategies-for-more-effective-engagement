@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Small Business Customer Intelligence
-==================================================================================================================================================
+
 
 Small businesses are increasingly using AI to improve customer intelligence and engagement, but how can they measure the effectiveness of these efforts? In this chapter, we'll explore some key metrics and approaches for measuring the impact of AI on small business customer intelligence.
 

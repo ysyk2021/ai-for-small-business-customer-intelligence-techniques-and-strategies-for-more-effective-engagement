@@ -1,5 +1,4 @@
-Legal and Regulatory Considerations for AI Implementation in Small Business Customer Intelligence
-===============================================================================================================================================================================
+
 
 Small businesses must consider legal and regulatory considerations when implementing artificial intelligence (AI) tools for customer intelligence. In this chapter, we will discuss key legal and regulatory considerations for AI implementation in small business customer intelligence.
 

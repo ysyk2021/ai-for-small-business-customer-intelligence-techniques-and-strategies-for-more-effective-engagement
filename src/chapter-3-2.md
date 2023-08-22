@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-============================================================================================================================
+
 
 Before implementing artificial intelligence (AI) tools for customer intelligence, small businesses must evaluate the availability and quality of their customer data. In this chapter, we will discuss key considerations for evaluating data availability and quality.
 

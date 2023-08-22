@@ -1,5 +1,4 @@
-Overview of AI Applications for Customer Feedback and Sentiment Analysis in Small Businesses
-==============================================================================================================================================================
+
 
 Small businesses can use artificial intelligence (AI) for customer feedback and sentiment analysis to better understand their customers' needs and preferences. In this chapter, we will provide an overview of AI applications for customer feedback and sentiment analysis in small businesses.
 

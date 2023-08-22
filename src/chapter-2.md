@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI in Small Business Customer Intelligence
-===================================================================
+
 
 Artificial intelligence (AI) is transforming the way small businesses engage with their customers. In this chapter, we will explore what AI is and how it is used for small business customer intelligence.
 

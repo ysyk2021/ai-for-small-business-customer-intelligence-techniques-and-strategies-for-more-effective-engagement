@@ -1,5 +1,4 @@
-Chapter 9: AI Ethics and Governance for Small Business Customer Intelligence
-============================================================================
+
 
 In this chapter, we will discuss the ethical considerations and governance frameworks that small businesses should keep in mind when implementing AI for customer intelligence. We will also touch upon legal and regulatory considerations that small businesses should be aware of.
 

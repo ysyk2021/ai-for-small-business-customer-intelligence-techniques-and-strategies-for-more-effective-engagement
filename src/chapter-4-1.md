@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Small Business Customer Intelligence
-================================================================================================================================================================================
+
 
 Small businesses can use artificial intelligence (AI) tools and technologies to improve their customer intelligence. In this chapter, we will provide an overview of different types of AI tools and technologies that small businesses can use for customer intelligence.
 

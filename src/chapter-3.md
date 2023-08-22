@@ -1,5 +1,4 @@
-Chapter 2: Preparing for AI Implementation in Small Business Customer Intelligence
-==================================================================================
+
 
 Before implementing artificial intelligence (AI) tools for customer intelligence, small businesses must prepare their data and assess their needs and goals. In this chapter, we will discuss key considerations for preparing for AI implementation in small business customer intelligence.
 

@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-===========================================================================================================================================
+
 
 As small businesses implement artificial intelligence (AI) tools for customer intelligence, it is important to consider ethical and governance issues to ensure responsible AI use. In this chapter, we will discuss key considerations for developing governance frameworks to ensure responsible AI use.
 

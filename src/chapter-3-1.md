@@ -1,5 +1,4 @@
-Assessing Your Customer Intelligence Needs and Goals
-========================================================================================================================================
+
 
 Before implementing artificial intelligence (AI) tools for customer intelligence, small businesses must assess their customer intelligence needs and goals. In this chapter, we will discuss key considerations for assessing customer intelligence needs and goals.
 
