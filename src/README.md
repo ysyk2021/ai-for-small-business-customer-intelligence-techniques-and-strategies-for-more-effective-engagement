@@ -17,3 +17,7 @@ In the coming chapters, we'll explore key concepts and techniques for using AI i
 By the end of this book, you will have a solid understanding of how AI can improve customer intelligence and engagement, and be equipped with practical strategies and techniques for implementing AI in your small business. Let's dive in!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
